@@ -1,0 +1,7 @@
+{
+  "name": "Sistema de Gestão de Judô - Temporada 2026",
+  "description": "Sistema completo para cadastro de atletas de judô e gestão administrativa com relatórios.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
